@@ -28,7 +28,7 @@ pip install pandas
 
 ```python
 file_path = 'path/to/your/grades_file.xlsx'
-
+```
 Modify the group and activity codes in lines 8 to 14 of the code to match those used in the course you want to process.
 
 Run the grade_reader.py file from the terminal or your code editor.
